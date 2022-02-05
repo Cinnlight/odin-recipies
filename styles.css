@@ -1,0 +1,42 @@
+/**********
+**General**
+***********/
+
+body {
+    background-color: rgb(17, 17, 17);
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+img {
+    margin-top: 0px;
+    border: 2px solid white;
+}
+
+a.return-home {
+    color: rgb(227, 158, 248);
+}
+
+/************ 
+**Home-page** 
+*************/
+ul.recipe-list a {
+    color: rgb(227, 158, 248);
+}
+
+/***********************
+**Garlic Potato Wedges** 
+***********************/
+
+.garlic-directions li {
+    padding-bottom: 5px;
+}
+
+/***********************
+**Ultimate Potato Soup**
+************************/
+
+#soup-description {
+    font-style: italic;
+}
